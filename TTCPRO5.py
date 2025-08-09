@@ -39,7 +39,7 @@ def banner():
 ██████  ███████        ██    ██    ██ ██    ██ ██      
 ██      ██   ██        ██    ██    ██ ██    ██ ██      
 ██      ██   ██        ██     ██████   ██████  ███████
-\033[1;97mAi cần mua KEYVIP thì IB Tele
+Ai cần mua KEYVIP thì IB Tele
 Tool By: PHAM HUY                         Phiên Bản: V1     
 \033════════════════════════════════════════════════  
         \033 Telegram\033 : https://t.me/phtool
